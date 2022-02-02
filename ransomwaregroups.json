@@ -1,0 +1,26 @@
+{
+  "groups": [
+    {
+      "name": "CONTI"
+      "type": "Ransomware"
+      "site": "http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion"
+      "t2wb": "http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion.pet"
+      "info": "https://ergin.dev/Conti-Ransomware/"
+    },
+    {
+      "name": "LockBit"
+      "type": "Ransomware"
+      "site": "http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion"
+      "t2wb": "http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion.pet"
+      "info": "https://ergin.dev/LockBit-Ransomware/"
+    },
+    {
+      "name": ""
+      "type": "Ransomware"
+      "site": ""
+      "t2wb": ""
+      "info": "https://ergin.dev//"
+    },
+  
+  ]
+}
