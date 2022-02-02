@@ -21,6 +21,40 @@
       "t2wb": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion.pet"
       "info": "https://ergin.dev/ArvinClub-Ransomware/"
     },
-  
+    {
+      "name": "BlackCat"
+      "type": "Ransomware"
+      "site": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion"
+      "t2wb": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion.pet"
+      "info": "https://ergin.dev/BlackCat-Ransomware/"
+    },
+    {
+      "name": ""
+      "type": "Ransomware"
+      "site": ""
+      "t2wb": ""
+      "info": "https://ergin.dev//"
+    },
+    {
+      "name": ""
+      "type": "Ransomware"
+      "site": ""
+      "t2wb": ""
+      "info": "https://ergin.dev//"
+    },
+    {
+      "name": ""
+      "type": "Ransomware"
+      "site": ""
+      "t2wb": ""
+      "info": "https://ergin.dev//"
+    },
+    {
+      "name": ""
+      "type": "Ransomware"
+      "site": ""
+      "t2wb": ""
+      "info": "https://ergin.dev//"
+    } 
   ]
 }
