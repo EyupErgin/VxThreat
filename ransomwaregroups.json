@@ -38,8 +38,8 @@
     {
       "name": "Snatch"
       "type": "Ransomware"
-      "site": "https://snatch.press/"
-      "t2wb": "https://snatch.press/"
+      "site": "https://snatch.press"
+      "t2wb": "https://snatch.press"
       "info": "https://ergin.dev/Snatch-Ransomware/"
     },
     {
