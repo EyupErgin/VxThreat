@@ -15,6 +15,13 @@
       "info": "https://ergin.dev/LockBit-Ransomware/"
     },
     {
+      "name": "CL0P"
+      "type": "Ransomware"
+      "site": "https://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion"
+      "t2wb": "https://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion.dog"
+      "info": "https://ergin.dev/CL0P-Ransomware/"
+    },
+    {
       "name": "ArvinClub"
       "type": "Ransomware"
       "site": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion."
@@ -78,11 +85,11 @@
       "info": "https://ergin.dev/Quantum-Ransomware/"
     },
     {
-      "name": ""
+      "name": "Haron"
       "type": "Ransomware"
-      "site": ""
-      "t2wb": ""
-      "info": "https://ergin.dev//"
+      "site": "http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion"
+      "t2wb": "http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion.pet"
+      "info": "https://ergin.dev/Haron-Ransomware/"
     },
     {
       "name": ""
@@ -90,6 +97,6 @@
       "site": ""
       "t2wb": ""
       "info": "https://ergin.dev//"
-    },
+    }
   ]
 }
