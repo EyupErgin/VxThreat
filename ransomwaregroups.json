@@ -57,18 +57,18 @@
       "info": "https://ergin.dev/RansomEXX-Ransomware/"
     },
     {
-      "name": ""
+      "name": "RagnarLocker"
       "type": "Ransomware"
-      "site": ""
-      "t2wb": ""
-      "info": "https://ergin.dev//"
+      "site": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion"
+      "t2wb": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion.pet"
+      "info": "https://ergin.dev/RagnarLocker-Ransomware/"
     },
     {
-      "name": ""
+      "name": "Cuba"
       "type": "Ransomware"
-      "site": ""
-      "t2wb": ""
-      "info": "https://ergin.dev//"
+      "site": "http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion"
+      "t2wb": "http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion.dog"
+      "info": "https://ergin.dev/Cuba-Ransomware/"
     },
     {
       "name": ""
