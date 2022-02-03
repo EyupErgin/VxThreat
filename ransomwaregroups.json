@@ -71,11 +71,11 @@
       "info": "https://ergin.dev/Cuba-Ransomware/"
     },
     {
-      "name": ""
+      "name": "Quantum"
       "type": "Ransomware"
-      "site": ""
-      "t2wb": ""
-      "info": "https://ergin.dev//"
+      "site": "http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion"
+      "t2wb": "http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion.pet"
+      "info": "https://ergin.dev/Quantum-Ransomware/"
     },
     {
       "name": ""
